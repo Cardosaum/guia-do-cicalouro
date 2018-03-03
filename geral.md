@@ -5,15 +5,15 @@ layout: default
 # Guia geral do curso
 
 ## Índice
-* [Aspectos Gerais](#aspectos-gerais)
-* [Sobre a UnB](#sobre-a-unb)
- 	* [Processo de Matrícula](#processo-de-matrícula)
-   		* [Para calouros](#para-calouros)
-   		* [Para os próximos semestres](#para-os-próximos-semestres)
-  	* [Restaurante Universitário](#ru)
-  	* [CACOMP](#cacomp)
-  	* [LINF](#linf)
-* [Fluxo](#fluxo)
+- [Aspectos Gerais](#aspectos-gerais)
+- [Sobre a UnB](#sobre-a-unb)
+ - [Processo de Matrícula](#processo-de-matrícula)
+  - [Para calouros](#para-calouros)
+  - [Para os próximos semestres](#para-os-próximos-semestres)
+ - [Restaurante Universitário](#ru)
+ - [CACOMP](#cacomp)
+ - [LINF](#linf)
+- [Fluxo](#fluxo)
 
 ## [](#aspectos-gerais)Aspectos Gerais
 
@@ -26,25 +26,25 @@ O curso tem um total de 214 créditos, sendo que o mínimo de períodos necessá
 
 ## [](#sobre-a-unb)Sobre a UnB
 
-#### Processo de Matrícula
+### Processo de Matrícula
 
-##### Para calouros
+#### Para calouros
 
 No seu primeiro semestre, todos os novos alunos da UnB possuem vagas garantidas nas matérias do primeiro semestre do fluxo, logo a única coisa que precisam fazer no processo de matrícula é acessar o Matrícula Web, clicar na aba Matrícula, depois Matrícula em Disciplina e então só resta **confirmar** sua matrícula em todas as 5 disciplinas ofertadas.
 
-##### Para os próximos semestres
+#### Para os próximos semestres
 
 A preencher
 
-#### Restaurante Universitário
+### Restaurante Universitário
 
 A preencher
 
-#### CACOMP
+### CACOMP
 
 O CACOMP (Centro Acadêmico de Computação) é o nosso CA, fica localizado logo na primeira entrada à esquerda quando se entra no ICC Norte pelo Ceubinho. Nele é possível dormir, jogar sinuca, assistir televisão, usar o microondas, jogar truco, dominó, sentar na mesa para fazer seus trabalhos, etc. Se estiver na UnB e com tempo livre é o melhor lugar a se ficar.
 
-#### LINF
+### LINF
 
 O LINF (Laboratório de Informática) é usado para aulas práticas de diversas matérias e também disponibilizado a todos os alunos de computação para uso livre. Conta com vários notebooks de livre acesso para você fazer tarefas ou trabalhos, é aberto 24 horas por dia, significando que se estiver usando ninguém vai mandar você sair, porém se chegar lá 3 horas da manhã é possível que esteja fechado. Localiza-se no subsolo da ala norte do ICC, para chegar desça a escada em frente ao nosso CA e vire a esquerda. 
 
