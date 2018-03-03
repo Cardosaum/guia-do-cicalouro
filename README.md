@@ -1,5 +1,7 @@
 # Guia do CiCalouro da UnB
 
+Acesse a [página](https://mikaelmello.github.io/guia-do-cicalouro/)
+
 ## Objetivo
 
 Guia criado com o objetivo de ajudar os calouros do curso de Ciência da Computação da Universidade de Brasília, inicialmente engloba aspectos gerais do curso e os conteúdos das 5 disciplinas iniciais do curso, que são:

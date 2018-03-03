@@ -9,8 +9,8 @@ disciplinas:
 - text: Introdução aos Sistemas Computacionais
   url: disciplinas/isc
 - text: Fundamentos Teóricos da Computação
+  url: disciplinas/ftc
 - text: Informática e Sociedade
   url: disciplinas/is
-  url: disciplinas/ftc
 - text: Cálculo 1
   url: disciplinas/c1
