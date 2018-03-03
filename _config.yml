@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+title: Guia do CiCalouro da UnB
+
+disciplinas:
+- text: Guia Geral do Curso
+  url: geral
+- text: Algoritmos e Programação de Computadores
+  url: disciplinas/apc
+- text: Introdução aos Sistemas Computacionais
+  url: disciplinas/isc
+- text: Fundamentos Teóricos da Computação
+- text: Informática e Sociedade
+  url: disciplinas/is
+  url: disciplinas/ftc
+- text: Cálculo 1
+  url: disciplinas/c1
