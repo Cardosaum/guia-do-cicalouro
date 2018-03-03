@@ -14,4 +14,4 @@ Guia criado com o objetivo de ajudar os calouros do curso de Ciência da Computa
 
 ## Contribuição
 
-Se você gostaria de contribuir com o trabalho, para ajudar faça um _fork_ do [repositório](https://github.com/mikaelmello/guia-do-cicalouro), realize suas mudanças e crie um _pull request_ neste repositório, assim suas mudanças serão avaliadas e discutidas com o resto da comunidade.
+Se você gostaria de contribuir com o trabalho, para ajudar faça um _fork_ do [repositório](https://github.com/mikaelmello/guia-do-cicalouro), realize suas mudanças e crie um _pull request_ neste repositório, assim suas mudanças serão avaliadas e discutidas com o resto da comunidade. Para mais detalhes e um guia básico acesse a [página de contribuição](contribuir).
