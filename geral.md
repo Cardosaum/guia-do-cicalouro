@@ -13,7 +13,9 @@ layout: default
   - [Restaurante Universitário](#ru)
   - [CACOMP](#cacomp)
   - [LINF](#linf)
+  - [Moodle](#moodle)
 - [Fluxo](#fluxo)
+- [Mapa & Lugares Importantes](#maps)
 ## [](#aspectos-gerais)Aspectos Gerais
 
 O curso de Bacharelado em Ciência da Computação (ou CiC para os íntimos) é um curso que, na UnB, envolve inicialmente um número considerável de disciplinas de matemática, como Cálculo e Álgebra e a partir do quarto semestre, todas as matérias obrigatórias do [fluxo](#fluxo) são ministradas pelo Departamento de Ciência da Computação.
@@ -26,6 +28,8 @@ O curso tem um total de 214 créditos, sendo que o mínimo de períodos necessá
 ## [](#sobre-a-unb)Sobre a UnB
 
 ### Processo de Matrícula
+
+Work in progress... check [CAENE](https://www.facebook.com/pg/unb.caene/photos/?tab=album&album_id=1392229010861046) for now.
 
 #### Para calouros
 
@@ -45,10 +49,22 @@ O CACOMP (Centro Acadêmico de Computação) é o nosso CA, fica localizado logo
 
 ### LINF
 
-O LINF (Laboratório de Informática) é usado para aulas práticas de diversas matérias e também disponibilizado a todos os alunos de computação para uso livre. Conta com vários notebooks de livre acesso para você fazer tarefas ou trabalhos, é aberto 24 horas por dia, significando que se estiver usando ninguém vai mandar você sair, porém se chegar lá 3 horas da manhã é possível que esteja fechado. Localiza-se no subsolo da ala norte do ICC, para chegar desça a escada em frente ao nosso CA e vire a esquerda. 
+O LINF (Laboratório de Informática) é usado para aulas práticas de diversas matérias e também disponibilizado a todos os alunos de computação para uso livre. Conta com vários notebooks de livre acesso para você fazer tarefas ou trabalhos. É aberto 24 horas por dia, significando que se estiver usando ninguém vai mandar você sair, porém se chegar lá 3 horas da manhã é possível que esteja fechado. Localiza-se no subsolo da ala norte do ICC, para chegar desça a escada em frente ao nosso CA e vire a esquerda. 
+
+### Moodle
+
+O Moodle é a plataforma digital pela qual os professores de cada disciplina entram em contato com os alunos. Nele você terá acesso aos materiais disponibilizados pelo professor. Algumas tarefas e trabalhos são entregues pelo Moodle, e existem fóruns de dúvidas e avisos.
+
+Para utilizar o [Moodle](https://aprender.unb.br/) é necessário fazer um cadastro. Para cada disciplina que vocẽ for cursar deve se cadastrar individualmente na disciplina usando a senha que o professor fornecerá no início do semestre.
 
 ## [](#fluxo)Fluxo
 
 Na UnB, este curso tem uma duração recomendada de 9 semestres (períodos), no primeiro semestre o calouro em circunstâncias normais não tem opção de adicionar ou trocar matérias, tendo um semestre com o total de 22 créditos. Isto significa que para se formar em 9 semestres no total ele deve ter uma média de 24 créditos por semestre.
 
-O curso possui 29 disciplinas obrigatórias ministradas pelo Departamento de Ciência da Computação, 1 pelo Departamento de Estatística e 5 pelo Departamento de Matemática. Uma ilustração do fluxo pode ser encontrada [clicando aqui](/assets/img/fluxo.jpg){:target="_blank"}.
+O curso possui 29 disciplinas obrigatórias ministradas pelo Departamento de Ciência da Computação, 1 pelo Departamento de Estatística e 5 pelo Departamento de Matemática. Uma ilustração do fluxo pode ser encontrada [clicando aqui](/assets/img/fluxo.jpg).
+
+## [](#maps)Mapas & Locais Importantes
+
+O campus Darcy Ribeiro é muito grande. De maneira geral o curso de Computação é centrado na ala Norte do campus, com utilização do ICC, PAT e PJC, e do prédio do nosso Departamento.
+
+Veja neste [mapa](https://drive.google.com/open?id=1TViwATd99jzcO0IO7H5jAYMPRCvinVDs&usp=sharing) os principais locais que vocẽ provavelemente vai frequentar. 

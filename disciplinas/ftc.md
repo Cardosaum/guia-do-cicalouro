@@ -33,7 +33,7 @@ Esta disciplina não possui nenhum trabalho, nem provas substitutivas.
 
 ## [](#recursos)Recursos
 
-A preencher
+O livro texto é o _principal_ recurso: Kenneth H. Rosen. Discrete Mathematics and Its Applications. Mc-Graw Hill, 7th Edition, 2011. ISBN: 0073383090, 9780073383095.
 
 ## [](#cheat-sheet)Cheat Sheet
 

@@ -9,6 +9,7 @@ layout: default
 
 ## Introdução
 
+Disciplina de CiC com motivação mais humana do que exata, explora como as relações sociais e empresariais são afetadas pro sistemas de informação.
 
 ## Conteúdos
 
