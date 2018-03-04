@@ -3,14 +3,14 @@ title: Guia do CiCalouro da UnB
 
 disciplinas:
 - text: Guia Geral do Curso
-  url: /geral
+  url: /guia-do-cicalouro/geral
 - text: Algoritmos e Programação de Computadores
-  url: /disciplinas/apc
+  url: /guia-do-cicalouro/disciplinas/apc
 - text: Introdução aos Sistemas Computacionais
-  url: /disciplinas/isc
+  url: /guia-do-cicalouro/disciplinas/isc
 - text: Fundamentos Teóricos da Computação
-  url: /disciplinas/ftc
+  url: /guia-do-cicalouro/disciplinas/ftc
 - text: Informática e Sociedade
-  url: /disciplinas/is
+  url: /guia-do-cicalouro/disciplinas/is
 - text: Cálculo 1
-  url: /disciplinas/c1
+  url: /guia-do-cicalouro/disciplinas/c1
