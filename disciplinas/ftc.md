@@ -9,6 +9,7 @@ layout: default
 - [Conteúdos](#conteudos)
 - [Provas](#provas)
 - [Recursos](#recursos)
+- [Cheat Sheet](#cheat-sheet)
 
 ## [](#intro)Introdução
 
@@ -28,6 +29,15 @@ Depois acontece um estudo sobre teoria de conjuntos, infinidade de conjuntos, et
 
 Esta disciplina tem 3 provas. As provas são pouco extensas, e terão pelo menos algumas questões de demonstração, que são as mais difíceis. Antes das provas o professor sugere alguns exercícios para serem feitos, é bom fazê-los. Todos são exercícios do livro.
 
+Esta disciplina não possui nenhum trabalho, nem provas substitutivas.
+
 ## [](#recursos)Recursos
 
 A preencher
+
+## [](#cheat-sheet)Cheat Sheet
+
+- Se você for para a aula, procure ficar acordado. As aulas são cedo e o professor dá sono, mas fazer este esforço pode valer a pena.
+- O livro usado é a melhor ferramenta para a matéria, mas ele é confuso. O professor ajuda a entendê-lo.
+- Não deixe a matéria acumular, ela é complicada e pode levar um tempo para ser compreendida.
+- Aprenda a fazer demonstrações o quanto antes.
