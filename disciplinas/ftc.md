@@ -21,7 +21,7 @@ Prof Lucero segue o livro recomendado à risca, então o livro é o material mai
 
 ## [](#conteudos)Conteúdos
 
-Os conteúdos desta disciplina são bastante extensos. Inicialmente envolve lógica booleana - operadores lógicos, expressões e operações lógicas. Este conteúdo é um pouco mais complexo do que aparenta por conta das demonstrações e provas. Algumas técnicas básicas de demonstrações são apresentadas. Esta é a parte mais importante da matéria.
+Os conteúdos desta disciplina são bastante extensos. Inicialmente envolve lógica booleana - operadores lógicos, expressões e operações lógicas. Este conteúdo é um pouco mais complexo do que aparenta por conta das demonstrações e provas. Algumas técnicas básicas de demonstrações são apresentadas. Esta é a parte _mais_ importante da matéria.
 
 Depois acontece um estudo sobre teoria de conjuntos, infinidade de conjuntos, etc. E também um estudo de permutações e combinações.
 
@@ -39,4 +39,5 @@ A preencher
 
 - As aulas são um bom lugar para entender o livro. Ele é a melhor ferramenta da matéria, mas é confuso.
 - Não deixe a matéria acumular, ela é complicada e pode levar um tempo para ser compreendida.
-- Aprenda a fazer demonstrações o quanto antes.
+- _Aprenda a fazer demonstrações o quanto antes._
+- FTC __não__ possui monitores, mas os veteranos podem ajudar.
