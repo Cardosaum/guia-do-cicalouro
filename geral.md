@@ -7,14 +7,13 @@ layout: default
 ## Índice
 - [Aspectos Gerais](#aspectos-gerais)
 - [Sobre a UnB](#sobre-a-unb)
- - [Processo de Matrícula](#processo-de-matrícula)
-  - [Para calouros](#para-calouros)
-  - [Para os próximos semestres](#para-os-próximos-semestres)
- - [Restaurante Universitário](#ru)
- - [CACOMP](#cacomp)
- - [LINF](#linf)
+  - [Processo de Matrícula](#processo-de-matrícula)
+    - [Para calouros](#para-calouros)
+    - [Para os próximos semestres](#para-os-próximos-semestres)
+  - [Restaurante Universitário](#ru)
+  - [CACOMP](#cacomp)
+  - [LINF](#linf)
 - [Fluxo](#fluxo)
-
 ## [](#aspectos-gerais)Aspectos Gerais
 
 O curso de Bacharelado em Ciência da Computação (ou CiC para os íntimos) é um curso que, na UnB, envolve inicialmente um número considerável de disciplinas de matemática, como Cálculo e Álgebra e a partir do quarto semestre, todas as matérias obrigatórias do [fluxo](#fluxo) são ministradas pelo Departamento de Ciência da Computação.
