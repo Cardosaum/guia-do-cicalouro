@@ -16,6 +16,7 @@ layout: default
   - [Moodle](#moodle)
 - [Fluxo](#fluxo)
 - [Mapa & Lugares Importantes](#maps)
+
 ## [](#aspectos-gerais)Aspectos Gerais
 
 O curso de Bacharelado em Ciência da Computação (ou CiC para os íntimos) é um curso que, na UnB, envolve inicialmente um número considerável de disciplinas de matemática, como Cálculo e Álgebra e a partir do quarto semestre, todas as matérias obrigatórias do [fluxo](#fluxo) são ministradas pelo Departamento de Ciência da Computação.

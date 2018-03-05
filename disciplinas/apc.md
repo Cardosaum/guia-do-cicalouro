@@ -18,9 +18,9 @@ layout: default
 
 ## [](#introdução)Introdução
 
-A disciplina de Algoritmos e Programação de Computadores, ou APC, é o primeiro contato com programação no curso, e também o primeiro contato com programação de uma boa parte dos alunos, por este motivo a matéria é ensinada de uma forma bem meticulosa, tomando seu tempo com cada nova matéria relacionada a programação e detalhes da linguagem utilizada, C.
+A disciplina de Algoritmos e Programação de Computadores, ou APC, é ensinada de uma forma bem meticulosa, tomando seu tempo com cada nova matéria relacionada a programação e detalhes da linguagem utilizada, uma vez que a maioria dos alunos tem pouco ou nenhum contato prévio com programação.
 
-Se você possuir alguma experiência com programação ou feito algum curso introdutório, já saberá boa parte da disciplina porém não se engane, é importante entender bem cada parte do conteúdo e seus detalhes.
+Se você possuir alguma experiência com programação ou feito algum curso introdutório, já saberá boa parte da disciplina e isso te permite focar em outras, porém a partir do momento que você não souber resolver as questões das aulas práticas, você deve voltar a focar na matéria.
 
 Caso você seja um calouro, ainda tenha um tempo antes das aulas começarem e gostaria de adiantar essa matéria, sugiro que dê uma olhada no curso online de Harvard chamado [CS50x](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x), que cobre programação em C desde o aspecto mais básico.
 
@@ -30,11 +30,13 @@ A disciplina possui 6 créditos, ou seja, são 3 aulas por semana, sendo normalm
 
 ### [](#práticas)Práticas
 
-As aulas práticas possuem um método um pouco alternativo de ensino, por meio da *programação competitiva* a disciplina incentiva a competição entre os alunos ao elaborar exercícios com diferentes graus de dificuldade para serem resolvidos nas duas horas de aula no LINF.
+As aulas práticas possuem um método um alternativo de ensino, não é algo guiado com todo mundo _codando_ a mesma coisa, são apresentadas diferentes questões relacionadas a matéria da semana com dificuldades variadas e os alunos devem pensar em soluções para cada uma delas.
 
-Estas aulas contam com diversos monitores dispostos a tirar quaisquer dúvidas na hora de resolver os exercícios, porém sem indicar explicitamente como resolver, apenas te guiando.
+As questões são publicadas numa plataforma de _contests_, com um espírito de competição, onde os que resolverem mais exercícios (e em menos tempo) ficam nas primeiras posições do placar público.
 
-Os que resolverem mais exercícios (e em menos tempo) ficam nas primeiras posições do placar público, porém sua posição no placar final da aula não altera sua nota, o importante é que você termine todos os exercícios, uma vez que mesmo depois do fim da aula, você pode acessar o portal de casa e resolver os que não conseguiu terminar em aula.
+É importante notar que sua posição no placar final da aula não altera sua nota, o importante é que você faça o máximo que puder e termine em casa os que não conseguiu resolver em sala de aula.
+
+Há diversos monitores durante a aula que podem te ajudar a encontrar as soluções e você também pode perguntar para outros no grupo da turma no WhatsApp.
 
 ## [](#conteúdos)Conteúdos
 
@@ -42,7 +44,7 @@ Os conteúdos ensinados durante o semestre são bem distribuídos, primeiramente
 
 ## [](#maiores-dificuldades)Maiores dificuldades
 
-Alguns conteúdos costumam ser mais difíceis de entender a princípio do que outros, portanto segue uma breve explicação de alguns deles e onde você pode encontrar mais recursos para estudar.
+Alguns conteúdos costumam ser mais difíceis de entender a princípio do que outros, portanto seguem abaixo explicações um pouco diferentes para tentar lhe ajudar a entender essas matérias, assim como mais recursos para estudar.
 
 ### [](#algoritmos-de-ordenação)Algoritmos de Ordenação
 
@@ -60,7 +62,11 @@ A preencher
 
 Ao final da disciplina, a professora irá passar um trabalho (normalmente se trata de um jogo) para ser desenvolvido em C, onde será avaliado o aprendizado de todos os conteúdos ensinados durante o semestre assim como a *organização* do seu código.
 
-É importante que o código seja bem organizado, identado, com suas funções comentadas e nomes significativos para as variáveis.
+A melhor forma de se entender como a estrutura de um jogo funciona, se trata de ler o código de outros jogos já prontos e entender como funcionam, seguem alguns exemplos de semestres passados de APC:
+ * [2016/1 - Elimina Letras (Mikael Mello)](https://github.com/MikaelMello/college-assignments/tree/master/elimina-letras-apc)
+ * [2016/2 - Controle de Mesas de Restaurante (Giovanni Guidini)](https://github.com/Gguidini/APC_Trabalho)
+
+Note nos exemplos como é importante que o código seja bem organizado, identado, com suas funções comentadas e que as variáveis tenham nomes significativos para facilitar o entendimento.
 
 ## [](#provas)Provas
 
@@ -72,7 +78,9 @@ A preencher
 
 A preencher
 
-## [](#cheat-sheet)Cheat sheet
+## [](#cheat-sheet)Cheat Sheet
+
+Algumas dicas extras para se dar bem na matéria
 
  * Crie uma conta no [URI Online Judge](https://www.urionlinejudge.com.br/) e resolva exercícios da categoria Iniciante, além de te ajudar a entender o conteúdo atual, em pouco tempo irá pegar exercícios mais avançados e adiantará a matéria sem nem perceber.
  * Ainda no tópico do URI, para achar os melhores exercícios a se resolver, [ordene eles por quantidade de vezes resolvidos](https://www.urionlinejudge.com.br/judge/pt/problems/all?sort=Problems.solved&direction=desc), dessa forma fará os exercícios mais populares, quanto menos populares eles ficam, a chance é de que mais avançados eles são, portanto é uma boa forma de avançar.
