@@ -48,6 +48,7 @@ O jogo será programado no simulador MARS, que contém simuladores de entrada e 
 Assim como em APC, o melhor jeito de entender como começar ou como estruturar seu jogo e seu código se trata de ler outros projetos já feitos, seguem alguns recomendados:
  * [2016/1 - Snake (Mikael Mello)](https://github.com/MikaelMello/snake-assembly-mips)
  * [2016/2 - Space Invaders (Giovanni Guidini)](https://github.com/Gguidini/SpaceInvaders)
+ * [2017/1 - Pong Multiplayer (Vinicius)](http://www.mediafire.com/file/dg1835n6sl7kc5r/trabalho-isc-vinicius.zip)
 
 Note que para usar imagens no simulador, elas precisam estar no formato binário (isso será explicado pelo professor), então para adicionar facilmente imagens ao seu jogo, crie ou procure as imagens que quiser e salve-as no formato Bitmap, então use uma ferramenta chamada [bmp2bin](https://github.com/MikaelMello/bmp2bin) para convertê-las para o formato binário e usá-las no projeto.
 
