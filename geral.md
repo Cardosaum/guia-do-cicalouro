@@ -47,12 +47,12 @@ O Restaurante Universitário, popularmente conhecido como RU é destino comum pa
 O maior diferencial é o preço, apenas R$2,50 para alunos. Existem 6 restaurantes dentro do RU, mas todos servem a mesma coisa e são basicamente iguais. O cardápio é diferente todos os dias, e você pode acompanhar o menu 
 [aqui](http://www.ru.unb.br/cardapio-ru-unb).
 
-Os horários do RU são os seguintes:
+Os horários do RU são os seguintes:\
 
 _Segunda a sexta-feira_
-- café da manhã: 7h às 9h
-- almoço: 10h30 às 14h30
-- jantar: 17h às 19h30
+ - café da manhã: 7h às 9h
+ - almoço: 10h30 às 14h30
+ - jantar: 17h às 19h30
 _Feriados e finais de semana_
  - café da manhã: 7h às 9h
  - almoço: 11h às 14h30
