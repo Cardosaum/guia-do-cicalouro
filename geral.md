@@ -15,7 +15,7 @@ layout: default
   - [LINF](#linf)
   - [Moodle](#moodle)
 - [Fluxo](#fluxo)
-- [Mapa & Lugares Importantes](#maps)
+- [Mapa & Lugares Importantes](#mapas)
 ## [](#aspectos-gerais)Aspectos Gerais
 
 O curso de Bacharelado em Ciência da Computação (ou CiC para os íntimos) é um curso que, na UnB, envolve inicialmente um número considerável de disciplinas de matemática, como Cálculo e Álgebra e a partir do quarto semestre, todas as matérias obrigatórias do [fluxo](#fluxo) são ministradas pelo Departamento de Ciência da Computação.
@@ -41,7 +41,25 @@ A preencher
 
 ### Restaurante Universitário
 
-A preencher
+O Restaurante Universitário, popularmente conhecido como RU é destino comum para comer na UnB, sendo muito frequentado. No RU acontecem 3 refeições - café da manhã, almoço e jantar - todos os dias, incluindo finais de semana. Vocẽ precisará de créditos para poder comer no RU. Eles são comprados nas cabines espalhadas pelo prédio. Basta apresentar sua carteirinha, ou identidade com comprovante de matrícula caso ainda não tenha a carteirinha. Somente umas das cabines aceita cartão e ela fica no piso térreo do RU.
+
+O maior diferencial é o preço, apenas R$2,50 para alunos. Existem 6 restaurantes dentro do RU, mas todos servem a mesma coisa e são basicamente iguais. O cardápio é diferente todos os dias, e você pode acompanhar o menu 
+[aqui](http://www.ru.unb.br/cardapio-ru-unb).
+
+Os horários do RU são os seguintes:
+_Segunda a sexta-feira_
+- café da manhã: 7h às 9h
+- almoço: 10h30 às 14h30
+- jantar: 17h às 19h30
+
+_Feriados e finais de semana_
+ - café da manhã: 7h às 9h
+ - almoço: 11h às 14h30
+ - jantar: 17h às 19h30
+
+Lembre-se de que o RU enche bastante nos horários de pico, principalmente no almoço próximo das 12:00, então pode valer a pena esperar um pouco ou ir mais cedo para comer.
+
+obs.: Atualmente (2018/1) um processo está correndo para aumentar o valor do RU para estudantes. A situação ainda não está resolvida.
 
 ### CACOMP
 
@@ -50,6 +68,8 @@ O CACOMP (Centro Acadêmico de Computação) é o nosso CA, fica localizado logo
 ### LINF
 
 O LINF (Laboratório de Informática) é usado para aulas práticas de diversas matérias e também disponibilizado a todos os alunos de computação para uso livre. Conta com vários notebooks de livre acesso para você fazer tarefas ou trabalhos. É aberto 24 horas por dia, significando que se estiver usando ninguém vai mandar você sair, porém se chegar lá 3 horas da manhã é possível que esteja fechado. Localiza-se no subsolo da ala norte do ICC, para chegar desça a escada em frente ao nosso CA e vire a esquerda. 
+
+obs.: Atualmente (2018/1) o LINF não está funcionando após as 18:00 e nem aos domingos. A situação ainda não foi esclarecida.
 
 ### Moodle
 
@@ -63,7 +83,7 @@ Na UnB, este curso tem uma duração recomendada de 9 semestres (períodos), no 
 
 O curso possui 29 disciplinas obrigatórias ministradas pelo Departamento de Ciência da Computação, 1 pelo Departamento de Estatística e 5 pelo Departamento de Matemática. Uma ilustração do fluxo pode ser encontrada [clicando aqui](/assets/img/fluxo.jpg).
 
-## [](#maps)Mapas & Locais Importantes
+## [](#mapas)Mapas & Locais Importantes
 
 O campus Darcy Ribeiro é muito grande. De maneira geral o curso de Computação é centrado na ala Norte do campus, com utilização do ICC, PAT e PJC, e do prédio do nosso Departamento.
 

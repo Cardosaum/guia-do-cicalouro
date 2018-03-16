@@ -20,6 +20,15 @@ header ul {
   overflow: hidden;
 }
 
+# something
+header ul ul {
+  list-style:initial;
+  padding-left: 2%;
+  overflow: hidden;
+  border: 0px;
+  font-size: 90%;
+}
+
 header li {
   width:100%;
   float:left;
@@ -103,6 +112,15 @@ header ul a strong {
     height: auto;
     right:initial;
     top:initial;
+  }
+
+    # something
+  header ul ul {
+    list-style:initial;
+    padding-left: 2%;
+    overflow: hidden;
+    border: 0px;
+    font-size: 90%;
   }
 }
 
