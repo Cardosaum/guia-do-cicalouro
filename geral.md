@@ -15,8 +15,8 @@ layout: default
   - [LINF](#linf)
   - [Moodle](#moodle)
 - [Fluxo](#fluxo)
-
 - [Mapa & Lugares Importantes](#mapas)
+
 ## [](#aspectos-gerais)Aspectos Gerais
 
 O curso de Bacharelado em Ciência da Computação (ou CiC para os íntimos) é um curso que, na UnB, envolve inicialmente um número considerável de disciplinas de matemática, como Cálculo e Álgebra e a partir do quarto semestre, todas as matérias obrigatórias do [fluxo](#fluxo) são ministradas pelo Departamento de Ciência da Computação.
@@ -48,11 +48,11 @@ O maior diferencial é o preço, apenas R$2,50 para alunos. Existem 6 restaurant
 [aqui](http://www.ru.unb.br/cardapio-ru-unb).
 
 Os horários do RU são os seguintes:
+
 _Segunda a sexta-feira_
 - café da manhã: 7h às 9h
 - almoço: 10h30 às 14h30
 - jantar: 17h às 19h30
-
 _Feriados e finais de semana_
  - café da manhã: 7h às 9h
  - almoço: 11h às 14h30
