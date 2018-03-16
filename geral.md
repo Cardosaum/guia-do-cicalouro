@@ -53,6 +53,7 @@ _Segunda a sexta-feira_
  - café da manhã: 7h às 9h
  - almoço: 10h30 às 14h30
  - jantar: 17h às 19h30
+ 
 _Feriados e finais de semana_
  - café da manhã: 7h às 9h
  - almoço: 11h às 14h30
