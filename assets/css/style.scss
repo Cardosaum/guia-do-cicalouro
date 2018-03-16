@@ -20,9 +20,26 @@ header ul {
   overflow: hidden;
 }
 
-# something
 header ul ul {
   list-style:initial;
+  padding-left: 2%;
+  overflow: hidden;
+  border: 0px;
+  font-size: 90%;
+}
+
+ul {
+  list-style:initial;
+  padding-left:15px;
+  height: auto;
+  background: unset;
+  border:0px;
+  width:270px;
+  overflow: hidden;
+}
+
+ul ul {
+  list-style:none;
   padding-left: 2%;
   overflow: hidden;
   border: 0px;
