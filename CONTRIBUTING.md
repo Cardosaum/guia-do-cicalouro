@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Como contribuir
 
 [//]: # (Página dedicada a um guia básico de como contribuir)
