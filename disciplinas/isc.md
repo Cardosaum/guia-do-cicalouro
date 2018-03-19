@@ -33,7 +33,9 @@ Como vocês vão ver, Assembly MIPS é uma linguagem de programação de baixís
 
 ## [](#provas)Provas
 
-A disciplina tem 3 provas.
+A disciplina tem 3 provas. É recomendado fazer as listas de exercício antes das provas. No momento da prova, é preciso tomar muito cuidado com questões aparentemente fáceis e com o gerenciamento do tempo, pois apesar de pequenas elas são trabalhosas.
+
+Prova 1: Bastante conversão de base, geralmente uma questão de conversão em IEEE754, além de aritmética em outras bases. Importante gerenciar bem o tempo e prestar muita atenção com questões "fáceis". Por ser a primeira prova, preste atenção ao estilo do professor em montar as provas, pois será o mesmo no resto da disciplina.   
 
 A preencher (falar sobre cada prova e dicas)
 
