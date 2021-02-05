@@ -42,7 +42,7 @@ A preencher
 
 ### Restaurante Universitário
 
-O Restaurante Universitário, popularmente conhecido como RU é destino comum para comer na UnB, sendo muito frequentado. No RU acontecem 3 refeições - café da manhã, almoço e jantar - todos os dias, incluindo finais de semana. Vocẽ precisará de créditos para poder comer no RU. Eles são comprados nas cabines espalhadas pelo prédio. Basta apresentar sua carteirinha, ou identidade com comprovante de matrícula caso ainda não tenha a carteirinha. Somente umas das cabines aceita cartão e ela fica no piso térreo do RU.
+O Restaurante Universitário, popularmente conhecido como RU é destino comum para comer na UnB, sendo muito frequentado. No RU acontecem 3 refeições - café da manhã, almoço e jantar - todos os dias, incluindo finais de semana. Você precisará de créditos para poder comer no RU. Eles são comprados nas cabines espalhadas pelo prédio. Basta apresentar sua carteirinha, ou identidade com comprovante de matrícula caso ainda não tenha a carteirinha. Somente umas das cabines aceita cartão e ela fica no piso térreo do RU.
 
 O maior diferencial é o preço, apenas R$2,50 para alunos. Existem 6 restaurantes dentro do RU, mas todos servem a mesma coisa e são basicamente iguais. O cardápio é diferente todos os dias, e você pode acompanhar o menu 
 [aqui](http://www.ru.unb.br/cardapio-ru-unb).
@@ -77,7 +77,7 @@ obs.: Atualmente (2018/1) o LINF não está funcionando após as 18:00 e nem aos
 
 O Moodle é a plataforma digital pela qual os professores de cada disciplina entram em contato com os alunos. Nele você terá acesso aos materiais disponibilizados pelo professor. Algumas tarefas e trabalhos são entregues pelo Moodle, e existem fóruns de dúvidas e avisos.
 
-Para utilizar o [Moodle](https://aprender.unb.br/) é necessário fazer um cadastro. Para cada disciplina que vocẽ for cursar deve se cadastrar individualmente na disciplina usando a senha que o professor fornecerá no início do semestre.
+Para utilizar o [Moodle](https://aprender.unb.br/) é necessário fazer um cadastro. Para cada disciplina que você for cursar deve se cadastrar individualmente na disciplina usando a senha que o professor fornecerá no início do semestre.
 
 ## [](#fluxo)Fluxo
 
@@ -89,4 +89,4 @@ O curso possui 29 disciplinas obrigatórias ministradas pelo Departamento de Ci�
 
 O campus Darcy Ribeiro é muito grande. De maneira geral o curso de Computação é centrado na ala Norte do campus, com utilização do ICC, PAT e PJC, e do prédio do nosso Departamento.
 
-Veja neste [mapa](https://drive.google.com/open?id=1TViwATd99jzcO0IO7H5jAYMPRCvinVDs&usp=sharing) os principais locais que vocẽ provavelemente vai frequentar. 
+Veja neste [mapa](https://drive.google.com/open?id=1TViwATd99jzcO0IO7H5jAYMPRCvinVDs&usp=sharing) os principais locais que você provavelemente vai frequentar. 
