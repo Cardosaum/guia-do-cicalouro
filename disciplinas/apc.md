@@ -30,7 +30,7 @@ A disciplina possui 6 créditos, ou seja, são 3 aulas por semana, sendo normalm
 
 ### [](#práticas)Práticas
 
-As aulas práticas possuem um método um alternativo de ensino, não é algo guiado com todo mundo _codando_ a mesma coisa, são apresentadas diferentes questões relacionadas a matéria da semana com dificuldades variadas e os alunos devem pensar em soluções para cada uma delas.
+As aulas práticas possuem um método alternativo de ensino, não é algo guiado com todo mundo _codando_ a mesma coisa, são apresentadas diferentes questões relacionadas a matéria da semana com dificuldades variadas e os alunos devem pensar em soluções para cada uma delas.
 
 As questões são publicadas numa plataforma de _contests_, com um espírito de competição, onde os que resolverem mais exercícios (e em menos tempo) ficam nas primeiras posições do placar público.
 
