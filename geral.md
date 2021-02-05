@@ -45,7 +45,7 @@ A preencher
 O Restaurante Universitário, popularmente conhecido como RU é destino comum para comer na UnB, sendo muito frequentado. No RU acontecem 3 refeições - café da manhã, almoço e jantar - todos os dias, incluindo finais de semana. Você precisará de créditos para poder comer no RU. Eles são comprados nas cabines espalhadas pelo prédio. Basta apresentar sua carteirinha, ou identidade com comprovante de matrícula caso ainda não tenha a carteirinha. Fique atento, pois não são todas as cabines que aceitam cartão.
 
 O maior diferencial é o preço, apenas R$2,50 para alunos. Existem 6 restaurantes dentro do RU, mas todos servem a mesma coisa e são basicamente iguais. O cardápio é diferente todos os dias, e você pode acompanhar o menu 
-[aqui](http://www.ru.unb.br/cardapio-ru-unb).
+[aqui](https://ru.unb.br/index.php/cardapio-refeitorio).
 
 Os horários do RU são os seguintes:
 
