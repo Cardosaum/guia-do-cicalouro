@@ -1,6 +1,6 @@
 # Guia do CiCalouro da UnB
 
-Acesse a [página](https://mikaelmello.github.io/guia-do-cicalouro/)
+Acesse a [página](https://cardosaum.github.io/guia-do-cicalouro/)
 
 ## Objetivo
 
