@@ -28,6 +28,8 @@ Caso você seja um calouro, ainda tenha um tempo antes das aulas começarem e go
 
 A disciplina possui 6 créditos, ou seja, são 3 aulas por semana, sendo normalmente distribuída entre 2 teóricas (no pavilhão) e 1 prática (no LINF).
 
+obs.: Atualmente (2020/02) as aulas são exclusivamentes EAD, por motivos óbvios. Sendo 3 aulas semanais síncronas (1 aula teórica, 1 prática e 1 para dúvidas), e também aulas assíncronas de teoria.
+
 ### [](#práticas)Práticas
 
 As aulas práticas possuem um método alternativo de ensino, não é algo guiado com todo mundo _codando_ a mesma coisa, são apresentadas diferentes questões relacionadas a matéria da semana com dificuldades variadas e os alunos devem pensar em soluções para cada uma delas.
@@ -37,6 +39,8 @@ As questões são publicadas numa plataforma de _contests_, com um espírito de 
 É importante notar que sua posição no placar final da aula não altera sua nota, o importante é que você faça o máximo que puder e termine em casa os que não conseguiu resolver em sala de aula.
 
 Há diversos monitores durante a aula que podem te ajudar a encontrar as soluções e você também pode perguntar para outros no grupo da turma no WhatsApp.
+
+obs.: Atualmente (2020/02) os _contests_ não estão ocorrendo. O que temos é uma lista de 10 exercícios semanais, muito semelhantes com os exercícios do [URI](https://www.urionlinejudge.com.br/) ou [CodeForces](https://codeforces.com).
 
 ## [](#conteúdos)Conteúdos
 
@@ -68,6 +72,8 @@ A melhor forma de se entender como a estrutura de um jogo funciona, se trata de 
 
 Note nos exemplos como é importante que o código seja bem organizado, identado, com suas funções comentadas e que as variáveis tenham nomes significativos para facilitar o entendimento.
 
+obs.: Atualmente (2020/02) o _"Projeto Final"_ é composto de 3 projetos maiores distribuídos ao longo do semestre. Para a turma de 2020/02 os 3 projetos foram complementares um ao outro, criando, ao fim de todos, um pipeline completo para tratamento de dados brutos de forma a tornar um dataset de imagens inicial útil para aplicação de algoritmos de aprendizado de máquina.
+
 ## [](#provas)Provas
 
 As provas são realizadas no mesmo formato das aulas práticas.
@@ -76,7 +82,9 @@ A preencher
 
 ## [](#recursos)Recursos
 
-A preencher
+ * [Pense Python 2ª edição](https://penseallen.github.io/PensePython2e/) - (Bibliografia oficial do curso)
+ * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - [Inglês] (Leitura leve, descontraída e de fácil assimilação e progresso na linguagem)
+ * [CS50](https://cs50.harvard.edu) - [Inglês] (Aulas incríveis, progresso rápido e bom overview para uma introdução à Computação)
 
 ## [](#cheat-sheet)Cheat Sheet
 
