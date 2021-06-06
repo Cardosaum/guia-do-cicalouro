@@ -28,7 +28,7 @@ Caso você seja um calouro, ainda tenha um tempo antes das aulas começarem e go
 
 A disciplina possui 6 créditos, ou seja, são 3 aulas por semana, sendo normalmente distribuída entre 2 teóricas (no pavilhão) e 1 prática (no LINF).
 
-obs.: Atualmente (2020/02) as aulas são exclusivamentes EAD, por motivos óbvios. Sendo 3 aulas semanais síncronas (1 aula teórica, 1 prática e 1 para dúvidas), e também aulas assíncronas de teoria.
+obs.: Atualmente (2020/02) as aulas são estão exclusivamente no modelo EAD, por motivos óbvios. Sendo 3 aulas semanais síncronas (1 aula teórica, 1 prática e 1 para dúvidas), e também aulas assíncronas de teoria.
 
 ### [](#práticas)Práticas
 
