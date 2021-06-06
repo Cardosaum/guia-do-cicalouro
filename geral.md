@@ -92,6 +92,6 @@ O campus Darcy Ribeiro é muito grande. De maneira geral o curso de Computação
 
 Aqui estão dois mapas para fornecer uma melhor ideia de como é o campus.
 
-- [Mapa com mais detalhes](/assets/img/mapa_detalhe.jpg)
+ * [Mapa com mais detalhes](/assets/img/mapa_detalhe.jpg)
 
-- [Mapa geral do campus Darcy Ribeiro](/assets/img/mapa_geral.jpg)
+ * [Mapa geral do campus Darcy Ribeiro](/assets/img/mapa_geral.jpg)
