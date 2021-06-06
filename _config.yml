@@ -8,9 +8,9 @@ disciplinas:
   url: /guia-do-cicalouro/disciplinas/apc
 - text: Introdução aos Sistemas Computacionais
   url: /guia-do-cicalouro/disciplinas/isc
-- text: Fundamentos Teóricos da Computação
-  url: /guia-do-cicalouro/disciplinas/ftc
-- text: Informática e Sociedade
-  url: /guia-do-cicalouro/disciplinas/is
+# - text: Fundamentos Teóricos da Computação
+#   url: /guia-do-cicalouro/disciplinas/ftc
+# - text: Informática e Sociedade
+#   url: /guia-do-cicalouro/disciplinas/is
 - text: Cálculo 1
   url: /guia-do-cicalouro/disciplinas/c1
