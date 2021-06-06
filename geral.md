@@ -90,4 +90,8 @@ O curso possui 29 disciplinas obrigatórias ministradas pelo Departamento de Ci�
 
 O campus Darcy Ribeiro é muito grande. De maneira geral o curso de Computação é centrado na ala Norte do campus, com utilização do ICC, PAT e PJC, e do prédio do nosso Departamento.
 
-Veja neste [mapa](https://drive.google.com/open?id=1TViwATd99jzcO0IO7H5jAYMPRCvinVDs&usp=sharing) os principais locais que você provavelemente vai frequentar. 
+Aqui estão dois mapas para fornecer uma melhor ideia de como é o campus.
+
+- [Mapa com mais detalhes](/assets/img/mapa_detalhe.jpg)
+
+- [Mapa geral do campus Darcy Ribeiro](/assets/img/mapa_geral.jpg)
