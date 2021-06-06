@@ -34,7 +34,7 @@ Work in progress... check [CAENE](https://www.facebook.com/pg/unb.caene/photos/?
 
 #### Para calouros
 
-No seu primeiro semestre, todos os novos alunos da UnB possuem vagas garantidas nas matérias do primeiro semestre do fluxo, logo a única coisa que precisam fazer no processo de matrícula é acessar o Matrícula Web, clicar na aba Matrícula, depois Matrícula em Disciplina e então só resta **confirmar** sua matrícula em todas as 5 disciplinas ofertadas.
+No primeiro semestre, todos os novos alunos da UnB possuem vagas garantidas nas matérias do primeiro semestre do fluxo, logo a única coisa que precisam fazer no processo de matrícula é acessar o [SIGAA](https://sig.unb.br/sigaa/portais/discente/discente.jsf#), clicar na aba "Ensino", depois em "Emitir Atestado de Matrícula" e verificar se de fato está tudo certo com sua inscrição em disciplina. Caso haja qualquer problema (uma matéria do fluxo na qual você deveria estar inscrito, por exemplo) entre em contato com o [_coordenador do curso de Bacharelado em Ciência da Computação_](https://cic.unb.br/o-cic/comissoes/) (você pode encontrar o email do atual coordenador [nesta página](https://cic.unb.br/professores/)).
 
 #### Para os próximos semestres
 
