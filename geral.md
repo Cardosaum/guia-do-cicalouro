@@ -22,9 +22,9 @@ layout: default
 O curso de Bacharelado em Ciência da Computação (ou CiC para os íntimos) é um curso que, na UnB, envolve inicialmente um número considerável de disciplinas de matemática, como Cálculo e Álgebra e a partir do quarto semestre, todas as matérias obrigatórias do [fluxo](#fluxo) são ministradas pelo Departamento de Ciência da Computação.
 
 O curso tem um total de 214 créditos, sendo que o mínimo de períodos necessários para se formar são 7 e o máximo são 14, o recomendado são 9 semestres, com uma média de 24 créditos por semestre (exceto o primeiro que são 22). Mais informações sobre o curso podem ser encontradas nos seguintes locais:
- * [Página da UnB de Ciência da Computação](http://www.unb2.unb.br/aluno_de_graduacao/cursos/ciencia_da_computacao)
- * [Página do Matrícula Web de Ciência da Computação](https://matriculaweb.unb.br/graduacao/curso_dados.aspx?cod=370)
  * [Site do Departamento de Ciência da Computação](http://www.cic.unb.br/)
+ * [Página do Instituto de Ciências Exatas](http://www.exatas.unb.br/cic/ciencia-da-computacao/)
+ * [Página do Matrícula Web de Ciência da Computação](https://matriculaweb.unb.br/graduacao/curso_dados.aspx?cod=370)
 
 ## [](#sobre-a-unb)Sobre a UnB
 
