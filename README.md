@@ -4,13 +4,11 @@ Acesse a [página](https://cardosaum.github.io/guia-do-cicalouro/)
 
 ## Objetivo
 
-Guia criado com o objetivo de ajudar os calouros do curso de Ciência da Computação da Universidade de Brasília, inicialmente engloba aspectos gerais do curso e os conteúdos das 5 disciplinas iniciais do curso, que são:
+Guia criado com o objetivo de ajudar os calouros do curso de Ciência da Computação da Universidade de Brasília, inicialmente engloba aspectos gerais do curso e os conteúdos das 3 disciplinas iniciais do curso, que são:
 
  * Algoritmos e Programação de Computadores
  * Introdução aos Sistemas Computacionais
- * Fundamentos Teóricos da Computação
  * Cálculo 1
- * Informática e Sociedade
 
 ## Contribuição
 
