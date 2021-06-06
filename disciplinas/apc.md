@@ -22,7 +22,7 @@ A disciplina de Algoritmos e Programação de Computadores, ou APC, é ensinada 
 
 Se você possuir alguma experiência com programação ou feito algum curso introdutório, já saberá boa parte da disciplina e isso te permite focar em outras, porém a partir do momento que você não souber resolver as questões das aulas práticas, você deve voltar a focar na matéria.
 
-Caso você seja um calouro, ainda tenha um tempo antes das aulas começarem e gostaria de adiantar essa matéria, sugiro que dê uma olhada no curso online de Harvard chamado [CS50x](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x), que cobre programação em C desde o aspecto mais básico.
+Caso você seja um calouro, ainda tenha um tempo antes das aulas começarem e gostaria de adiantar essa matéria, um bom recurso seria o curso online de Harvard chamado [CS50x](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x), que cobre programação em C desde o aspecto mais básico.
 
 ## [](#aulas)Aulas
 
