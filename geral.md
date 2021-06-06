@@ -61,7 +61,8 @@ _Feriados e finais de semana_
 
 Lembre-se de que o RU enche bastante nos horários de pico, principalmente no almoço próximo das 12:00, então pode valer a pena esperar um pouco ou ir mais cedo para comer.
 
-obs.: Atualmente (2018/1) um processo está correndo para aumentar o valor do RU para estudantes. A situação ainda não está resolvida.
+obs.: (2018/1) Atualmente um processo está correndo para aumentar o valor do RU para estudantes. A situação ainda não está resolvida.
+obs.: (2020/2) Como é de se esperar, as atividades do RU estão suspensas devido a pandemia.
 
 ### CACOMP
 
