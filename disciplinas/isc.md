@@ -57,7 +57,10 @@ Note que para usar imagens no simulador, elas precisam estar no formato binário
 
 ## [](#recursos)Recursos
 
-A princípio, todos os recursos recomendados podem ser encontrados no moodle da disciplina.
+A princípio, todos os recursos recomendados podem ser encontrados no moodle da disciplina. Mas para aqueles que desejam mais, segue a lista:
+
+ * [Digital Design & Computer Architecture - ETH Zürich (Spring 2020) (Inglês)](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
+   * O Curso é mais avançado que ISC, mas é um excelente recurso sobre o mesmo tema.
 
 ## [](#cheat-sheet)Cheat Sheet
 
