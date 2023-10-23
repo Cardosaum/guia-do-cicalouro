@@ -59,6 +59,8 @@ Note que para usar imagens no simulador, elas precisam estar no formato binário
 
 A princípio, todos os recursos recomendados podem ser encontrados no moodle da disciplina. Mas para aqueles que desejam mais, segue a lista:
 
+ * [LAMAR - Learning Assembly for Machine Architecture and RISC-V](https://github.com/victorlisboa/LAMAR)
+   * Repositório centrado nas disciplinas de ISC e OAC, recomendamos fortemente que veja o conteúdo lá presente!
  * [Digital Design & Computer Architecture - ETH Zürich (Spring 2020) (Inglês)](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
    * O Curso é mais avançado que ISC, mas é um excelente recurso sobre o mesmo tema.
 
